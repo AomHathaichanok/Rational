@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="RationalTest" tests="7" skipped="0" failures="0" errors="0" timestamp="2021-09-07T10:53:22" hostname="JACKSON" time="0.004">
+  <properties/>
+  <testcase name="testdivide" classname="RationalTest" time="0.003"/>
+  <testcase name="testAdd" classname="RationalTest" time="0.0"/>
+  <testcase name="testSubtract" classname="RationalTest" time="0.0"/>
+  <testcase name="testequal" classname="RationalTest" time="0.0"/>
+  <testcase name="testToString" classname="RationalTest" time="0.0"/>
+  <testcase name="testCompareTo" classname="RationalTest" time="0.0"/>
+  <testcase name="testmultiply" classname="RationalTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
